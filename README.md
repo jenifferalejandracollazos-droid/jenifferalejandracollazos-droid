@@ -1,4 +1,4 @@
-## Hi there 👋 / Hola 👋
+##  Print ('Hi there')👋
 
 I’m a **Full Stack Developer (Python / React) focused on building web applications**, with hands-on experience in client–server architectures, RESTful APIs, and modern frontend development.  
 Actualmente busco oportunidades **remotas** donde pueda aportar valor técnico y seguir creciendo profesionalmente.
