@@ -1,71 +1,42 @@
-## Hi there 👋
+## Hi there 👋 / Hola 👋
 
-Soy **Desarrolladora Full Stack (Python/React) orientada a construir aplicaciones web** con enfoque en resolución de problemas, arquitectura cliente–servidor y buenas prácticas de desarrollo.
-
----
-
-### 🚀 Stack Tecnológico
-
-**Frontend**
-- JavaScript (ES6+)
-- React.js
-- HTML5
-- CSS3
-- Bootstrap
-
-**Backend**
-- Python
-- RESTful APIs
-- JWT Authentication
-- SQLAlchemy
-
-**Testing & Tools**
-- Jest
-- Git & GitHub
-- JSON
+I’m a **Full Stack Developer (Python / React) focused on building web applications**, with hands-on experience in client–server architectures, RESTful APIs, and modern frontend development.  
+Actualmente busco oportunidades **remotas** donde pueda aportar valor técnico y seguir creciendo profesionalmente.
 
 ---
 
-### 🧠 Enfoque Profesional
+### 🧰 Tech Stack
 
-- Traducción de problemas complejos en soluciones técnicas claras  
-- Desarrollo de aplicaciones mantenibles y escalables  
-- Componentización y reutilización de código  
-- Pensamiento lógico y troubleshooting bajo presión  
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![React](https://img.shields.io/badge/React-18-blue)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red)
+![JWT](https://img.shields.io/badge/JWT-Auth-black)
+![Git](https://img.shields.io/badge/Git-GitHub-orange)
+![Jest](https://img.shields.io/badge/Jest-Testing-red)
 
 ---
 
-### 📌 Proyecto Destacado
+### 🧠 Professional Focus / Enfoque Profesional
+
+- Full Stack development with a strong backend foundation  
+- Design and consumption of RESTful APIs  
+- Authentication and authorization using JWT  
+- Scalable, maintainable and reusable code  
+- Problem-solving mindset and clean architecture  
+
+---
+
+### 📌 Featured Project / Proyecto Destacado
 
 #### 🏋️ 2-Gym — Full Stack Web Application
 
-Aplicación web para la gestión de un gimnasio basada en arquitectura cliente–servidor.
+Web application for gym management built with a client–server architecture.
 
-**Características principales:**
-- Autenticación y autorización con JWT
-- Roles diferenciados (cliente / entrenador)
-- Dashboards personalizados en React
-- API REST para gestión centralizada de datos
-- Manejo de estado y validaciones en frontend
-
-🔗 Repositorio: https://github.com/jecollazosdev/2-gym
-
----
-
-### 🎓 Formación
-
-- **Full Stack Developer** — 4Geeks Academy (2025–2026)  
-- **Médico Veterinaria** — Universidad Antonio Nariño  
-
----
-
-### 🌍 Idiomas
-
-- Español: Nativo  
-- Inglés: B2  
-
----
-
-### 📫 Contacto
-
-📧 [jecollazosdev@gmail.com](mailto:jecollazosdev@gmail.com)
+**Key features:**
+- JWT-based authentication and role-based access control  
+- Separate dashboards for clients and trainers  
+- Dynamic frontend buil
