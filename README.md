@@ -18,6 +18,7 @@ Actualmente busco **oportunidades remotas** donde pueda aportar valor técnico y
 ![JWT](https://img.shields.io/badge/JWT-Autenticación-black)
 ![Git](https://img.shields.io/badge/Git-GitHub-orange)
 ![Jest](https://img.shields.io/badge/Jest-Testing-red)
+![Render](https://img.shields.io/badge/Render-Deploy-46E3B7)
 
 ---
 
@@ -28,20 +29,20 @@ Actualmente busco **oportunidades remotas** donde pueda aportar valor técnico y
 Aplicación web para la **gestión de gimnasios**, desarrollada bajo una arquitectura cliente–servidor, enfocada en el control de usuarios, roles y operaciones internas.
 
 **Características principales:**
-- Autenticación basada en JWT y control de acceso por roles  
-- Paneles independientes para clientes y entrenadores  
-- Frontend dinámico construido con React  
-- Backend en Python con diseño de API REST  
+- Autenticación basada en JWT y control de acceso por roles
+- Paneles independientes para clientes y administradores
+- Frontend dinámico construido con React
+- Backend en Python con diseño de API REST
+- Desplegada en producción en Render
 
-**Stack:** Python · React · JWT · SQLAlchemy · Bootstrap
+**Stack:** Python · React · JWT · SQLAlchemy · Bootstrap · Render
 
-🔗 Repositorio: _(https://github.com/4GeeksAcademy/juan_castro-jenny_colla-ricardo_ali-Proyecto_Final)_  
-
+🔗 Repositorio: https://github.com/4GeeksAcademy/juan_castro-jenny_colla-ricardo_ali-Proyecto_Final
+🌐 Live Demo: https://two-gym-frontend.onrender.com
 
 ---
 
 ### 📫 Contacto
 
-- GitHub: este perfil  
-- Email: _(jecollazosdev@gmail.com)_
-  
+- GitHub: este perfil
+- Email: jecollazosdev@gmail.com
