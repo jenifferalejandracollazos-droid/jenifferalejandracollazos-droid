@@ -37,7 +37,7 @@ Aplicación web para la **gestión de gimnasios**, desarrollada bajo una arquite
 
 **Stack:** Python · React · JWT · SQLAlchemy · Bootstrap · Render
 
-🔗 Repositorio: https://github.com/4GeeksAcademy/juan_castro-jenny_colla-ricardo_ali-Proyecto_Final
+🔗 Repositorio: https://github.com/jenifferalejandracollazos-droid/2-gym
 🌐 Live Demo: https://two-gym-frontend.onrender.com
 
 ---
